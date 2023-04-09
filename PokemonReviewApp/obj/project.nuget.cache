@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Deu7GgISYA18XVkps9BqxNRzoLiHjuCfc0kJXiYcerWr0sYgZGrGIdMzGKJO/SeMdSUTL16bo5NVIgpQMCw9RA==",
+  "dgSpecHash": "UaeefqBwhv2qmh468jG13ogBmVs23V8yme2NqrDzugTTxW7VOZZzL8le3Di1/vQo/wybKWjpv8g/SQxxTaHKug==",
   "success": true,
-  "projectFilePath": "/Users/nillrze/Projects/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
+  "projectFilePath": "/Users/nillrze/Project/DotNet/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "/Users/nillrze/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/nillrze/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

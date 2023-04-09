@@ -1608,11 +1608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nillrze/Projects/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
+      "projectUniqueName": "/Users/nillrze/Project/DotNet/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
       "projectName": "PokemonReviewApp",
-      "projectPath": "/Users/nillrze/Projects/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
+      "projectPath": "/Users/nillrze/Project/DotNet/PokemonReviewApp/PokemonReviewApp/PokemonReviewApp.csproj",
       "packagesPath": "/Users/nillrze/.nuget/packages/",
-      "outputPath": "/Users/nillrze/Projects/PokemonReviewApp/PokemonReviewApp/obj/",
+      "outputPath": "/Users/nillrze/Project/DotNet/PokemonReviewApp/PokemonReviewApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nillrze/.nuget/NuGet/NuGet.Config"
